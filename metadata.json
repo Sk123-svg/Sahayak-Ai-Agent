@@ -1,0 +1,7 @@
+{
+  "name": "Sahayak AI Agent",
+  "description": "A friendly and empathetic mental-wellness assistant that provides emotional support through text and voice conversations. It includes safety checks and conversation memory.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
